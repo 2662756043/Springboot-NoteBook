@@ -18,6 +18,8 @@
         <module>springboot101</module>
         <!-- shardingsphere5.x实战 -->
         <module>shardingsphere101</module>
+        <!--jdk新特性-->
+        <module>jdk</module>
     </modules>
 
     <properties>
