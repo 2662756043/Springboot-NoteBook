@@ -20,6 +20,7 @@
         <module>shardingsphere101</module>
         <!--jdk新特性-->
         <module>jdk</module>
+        <module>word</module>
     </modules>
 
     <properties>
